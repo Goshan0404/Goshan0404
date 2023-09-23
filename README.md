@@ -8,7 +8,9 @@
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-006400?style=for-the-badge&logo=jetpackcompose)
 
 ## About me
-__Georgy Chernihov__       Russia Ekaterinburg/
+__Georgy Chernihov__ 
+Russia Ekaterinburg
+
 Young kotlin developer. I Like create native android application and study modern technology
 
 ### Link
