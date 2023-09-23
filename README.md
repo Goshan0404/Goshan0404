@@ -2,7 +2,7 @@
 
 ## Android developer
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-006400?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-006400?style=for-the-badge&logo=kotlin)\
 ![Java](https://img.shields.io/badge/-Java-006400?style=for-the-badge&logo=java)
 ![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-006400?style=for-the-badge&logo=jetpackcompose)
 ![Android](https://img.shields.io/badge/-Android-006400?style=for-the-badge&logo=android)
