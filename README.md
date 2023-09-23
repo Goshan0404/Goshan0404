@@ -9,7 +9,8 @@
 
 ## About me
 __Georgy Chernihov__ 
-Russia Ekaterinburg
+<sub>Russia Ekaterinburg</sub> 
+
 
 Young kotlin developer. I Like create native android application and study modern technology
 
