@@ -3,6 +3,6 @@
 ## Android developer
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-006400?style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-006400?style=for-the-badge&logo=[java](https://e7.pngegg.com/pngimages/97/846/png-clipart-java-virtual-machine-java-platform-standard-edition-java-runtime-environment-programmer-others-miscellaneous-text.png))
+![Java](https://img.shields.io/badge/-Java-006400?style=for-the-badge&logo=https://e7.pngegg.com/pngimages/97/846/png-clipart-java-virtual-machine-java-platform-standard-edition-java-runtime-environment-programmer-others-miscellaneous-text.png)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-006400?style=for-the-badge&logo=jetpackcompose)
 ![Android](https://img.shields.io/badge/-Android-006400?style=for-the-badge&logo=android)
