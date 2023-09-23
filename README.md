@@ -3,5 +3,5 @@
 ## Android developer
 
 ###Languages and Tools
-![Flutter](https://img.shields.io/badge/-Kotlin-008000?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-008000?style=for-the-badge&logo=kotlin)
 
