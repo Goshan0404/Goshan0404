@@ -8,6 +8,6 @@
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-006400?style=for-the-badge&logo=jetpackcompose)
 
 ### Link
-*** [Telegram](https://t.me/GeorgyChernihov)
-*** [Vk](https://vk.com/nullpointerexception04)
-*** [Email cherniihov.g@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox)
+- [Telegram](https://t.me/GeorgyChernihov)
+- [Vk](https://vk.com/nullpointerexception04)
+- Email: cherniihov.g@gmail.com
