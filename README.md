@@ -11,9 +11,9 @@
 __Georgy Chernihov__ 
 
 <sub>Russia Ekaterinburg</sub> 
-
+---
 Young kotlin developer. I Like create native android application and study modern technology
-
+---
 ### Link
 - [Telegram](https://t.me/GeorgyChernihov)
 - [Vk](https://vk.com/nullpointerexception04)
