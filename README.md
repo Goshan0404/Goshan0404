@@ -10,4 +10,4 @@
 ### Link
 - [Telegram](https://t.me/GeorgyChernihov)
 - [Vk](https://vk.com/nullpointerexception04)
-- Email: cherniihov.g@gmail.com
+- cherniihov.g@gmail.com
