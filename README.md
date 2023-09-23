@@ -2,6 +2,9 @@
 
 ## Android developer
 
-###Languages and Tools
-![Kotlin](https://img.shields.io/badge/-Kotlin-008000?style=for-the-badge&logo=kotlin)
-
+### Languages and Tools
+![Kotlin](https://img.shields.io/badge/-Kotlin-32CD32?style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/-java-32CD32?style=for-the-badge&logo=java)
+![Retrofit](https://img.shields.io/badge/-Retrofit-32CD32?style=for-the-badge&logo=retrofit)
+![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-32CD32?style=for-the-badge&logo=jetpackcompose)
+![Firebase](https://img.shields.io/badge/-Firebase-32CD32?style=for-the-badge&logo=firebase)
