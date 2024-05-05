@@ -19,4 +19,4 @@ Young kotlin developer. I Like create native android application and study moder
 ### Link
 - [Telegram](https://t.me/GeorgyChernihov)
 - [Vk](https://vk.com/nullpointerexception04)
-- cherniihov.g@gmail.com
+- chernihov.g@gmail.com
